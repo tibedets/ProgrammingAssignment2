@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Caching the inverse of a matrix is better than compute it repeatedly
+## because matrix inversion is usually a costly computation
+## There is below a pair of functions that cache the inverse of a matrix
+
+
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
